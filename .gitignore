@@ -1,0 +1,20 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor and system files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# draw.io backup files
+*.drawio.bkp
+*.drawio.dtmp
+
+.env
